@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./motion-coremltools/src/coremotiontools/converters"
+    ]
+}
